@@ -6,4 +6,4 @@ def square_array(numbers)
 end
 end
 
-new_array
+puts "new_array"
