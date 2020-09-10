@@ -6,5 +6,3 @@ def square_array(numbers)
 end
 end
 
-puts new_array.inspect
-
